@@ -581,3 +581,5 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[oatpp-mcp](https://github.com/oatpp/oatpp-mcp)** - Anthropic's Model Context Protocol implementation for Oat++
 - **[centralmind/gateway](https://github.com/centralmind/gateway)** - CLI that generates MCP tools based on your Database schema and data using AI and host as REST, MCP or MCP-SSE server
 - **[ToolHive](https://github.com/Stacklok/toolhive)** - A lightweight utility designed to simplify the deployment and management of MCP servers, ensuring ease of use, consistency, and security through containerization
+
+- **[awai-mm/practical-data-tools](https://github.com/awai-mm/practical-data-tools)** - Zero-dependency Python MCP server for deterministic N-to-M subset-sum accounting reconciliation, Monte Carlo (s,S) inventory & CVaR cashflow optimization, Solidity smart contract formal invariant auditing, and broken JSON/CSV schema repair.
